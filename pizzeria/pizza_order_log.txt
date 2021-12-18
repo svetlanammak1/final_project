@@ -1,0 +1,6 @@
+DEBUG - __main__ : process started! 
+DEBUG - __main__ : Read config file 
+DEBUG - __main__ host/port/database localhost / 3000 / pizza.db
+DEBUG - __main__ Enter Put 1 
+DEBUG - packages.pizza_progs.pizza_db : process show pizzas started! 
+DEBUG - __main__ Enter Put 8 
